@@ -1,9 +1,6 @@
 # BT4222-Hotel-Reviews
 Using data obtained from Kaggle which contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe to categorise hotels based on their reviews.
 
-# Categorising Hotel Reviews
-BT4222 project
-
 ## Content
 - Data Preparation 
 - Exploratory Data Analysis
