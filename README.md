@@ -22,11 +22,12 @@ Using data obtained from Kaggle which contains 515,000 customer reviews and scor
   - Model Performance Summary
   
 ## Summary
-Main purpose of this project is to perform Topic Modelling and sentiment analysis on the hotel reviews in order to gain a better understanding of the taste and preferences of hotel goers. 
+Main purpose of this project is to perform Topic Modelling and sentiment analysis on the hotel reviews in order to gain a better understanding of the taste and preferences of hotel goers.   
+  
 A futher implementation of supervised learning is conducted to find out whether our hotel topics can predict the average score rating for the hotel accurately. i.e. evaluate topic modelling and sentiment analysis
 
 ## Required Packages
-EDA: numpy, pandas, matplotlib, seaborn
-Topic Modelling: nltk, gensim, pyLDAvis
-Sentiment Analysis: afinn
-Supervised Learning Models: pycaret, sklearn, tensorflow
+- EDA: numpy, pandas, matplotlib, seaborn
+- Topic Modelling: nltk, gensim, pyLDAvis
+- Sentiment Analysis: afinn
+- Supervised Learning Models: pycaret, sklearn, tensorflow
