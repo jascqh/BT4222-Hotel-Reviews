@@ -1,5 +1,6 @@
 # BT4222 Hotel Reviews
-
+AY20/21 Semester 2 Project Group 16  
+Chan Qian Hui | Gan Shi Yong, Thomas | Heng Jie Kai Joven | Ong Ian Jie Joshua | Shervin Lee Jia Ning
 
 ## Code Content
 - Data Preparation 
