@@ -27,7 +27,7 @@ Main purpose of this project is to perform Topic Modelling and sentiment analysi
 A futher implementation of supervised learning is conducted to find out whether our hotel topics can predict the average score rating for the hotel accurately. i.e. evaluate topic modelling and sentiment analysis
 
 ## Required Packages
-- EDA: numpy, pandas, matplotlib, seaborn
+- Exploratory Data Analysis: numpy, pandas, matplotlib, seaborn
 - Topic Modelling: nltk, gensim, pyLDAvis
 - Sentiment Analysis: afinn
-- Supervised Learning Models: pycaret, sklearn, tensorflow
+- Regression Models: pycaret, sklearn, tensorflow
