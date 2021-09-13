@@ -25,7 +25,7 @@ Chan Qian Hui | Gan Shi Yong, Thomas | Heng Jie Kai Joven | Ong Ian Jie Joshua |
   - Model Performance Summary
   
 ## Project Summary 
-The objective of this project is to gather accurace insights from the data obtained from Kaggle, which contains 515,000 customer reviews and scores of 1493 luxury hotels across Europe, through the use of unsupervised learning methods such as Topic Modelling and Sentiment Analysis. A futher implementation of supervised learning is conducted to find out whether our generated topics and sentiment scores can accurately predict the average score for the hotel i.e. evaluate Topic Modelling and Sentiment Analysis, therefore providing a good indication of the hotel's overall performance.
+The objective of this project is to gather accurate insights from the data obtained from Kaggle, which contains 515,000 customer reviews and scores of 1493 luxury hotels across Europe, through the use of unsupervised learning methods such as Topic Modelling and Sentiment Analysis. A further implementation of supervised learning is conducted to find out whether our generated topics and sentiment scores can accurately predict the average score for the hotel i.e. evaluate Topic Modelling and Sentiment Analysis, therefore providing a good indication of the hotel's overall performance.
 
 ## Required Packages
 - Exploratory Data Analysis: numpy, pandas, matplotlib, seaborn
